@@ -1,159 +1,539 @@
 #EXTM3U
-#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV-5
-https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
-#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV-5
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
-#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV-5
-http://61.169.37.218:9901/tsfile/live/0005_1.m3u8?key=txiptv
-#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV-5
-http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000016619/1.m3u8?channel-id=bestzb&Contentid=5000000010000016619&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV-5+
-https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
-#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV-5+
-http://jltpc.x3322.net:9901/tsfile/live/0016_1.m3u8?key=txiptv
-#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV-5+
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000015875/1.m3u8?channel-id=wasusyt&Contentid=6000000001000015875&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV-5+
-http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000018504/1.m3u8?channel-id=ystenlive&Contentid=1000000001000018504&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV-5+
-http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031127/1.m3u8?channel-id=bestzb&Contentid=5000000011000031127&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV-5+
-http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000265016/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265016&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV-5+
-http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000020505/1.m3u8?channel-id=ystenlive&Contentid=1000000001000020505&livemode=1&stbId=3
-#EXTINF:-1 ,五星体育
-http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000017540/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
-#EXTINF:-1 ,五星体育
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8?
-#EXTINF:-1 ,五星体育
-http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000007/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000007&livemode=1&stbId=3
-#EXTINF:-1 ,五星体育
-http://222.71.90.218:8888/newlive/live/hls/56/live.m3u8
-#EXTINF:-1 ,五星体育
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001018/index.m3u8?
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV-1
-http://cfss.cc/api/ysp/cctv1.m3u8
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV-1
-http://tvpull.dxhmt.cn/tv/11481-4.m3u8
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV-1
-http://61.169.37.218:9901/tsfile/live/0001_1.m3u8?key=txiptv
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV-1
-http://120.196.232.32:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226737/1.m3u8?icpid=651&from=38&hms_devid=2232&online=1687246054&vqe=3
-#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="央视",CCTV-13
-https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
-#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="央视",CCTV-13
-http://cfss.cc/api/ysp/cctv13.m3u8
-#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="央视",CCTV-13
-http://cfss.cc/ds/bst.php?id=Cf-14
-#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="央视",CCTV-13
-https://iptv.luas.edu.cn/liverespath/8a2f3cd1ae4091c8d073cd239518f24cd4560d8e/0af5e4ebbf-0-0-73acd2813c45f8d650460bda2f73cdf0/index.m3u8
-#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="央视",CCTV-13
-http://zteres.sn.chinamobile.com:6060/000000001000/5000000005000001827/1.m3u8?channel-id=bestzb&Contentid=5000000005000001827&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="央视",CCTV-13
-http://61.169.37.218:9901/tsfile/live/0013_1.m3u8?key=txiptv
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV-1
-https://live.metshop.top/hbgd.php?id=cctv1hd_3000
-#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV-2
-https://live.metshop.top/hbgd.php?id=cctv2hd_3000
-#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="央视",CCTV-3
-https://live.metshop.top/hbgd.php?id=cctv3hd_3000
-#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视",CCTV-4
-https://live.metshop.top/hbgd.php?id=cctv4_1000
-#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV-5
-https://live.metshop.top/hbgd.php?id=cctv5hd_3000
-#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV-5+
-https://live.metshop.top/hbgd.php?id=cctv5jhd_3000
-#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="央视",CCTV-6
-https://live.metshop.top/hbgd.php?id=cctv6hd_3000
-#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="央视",CCTV-7
-https://live.metshop.top/hbgd.php?id=cctv7hd_3000
-#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="央视",CCTV-8
-https://live.metshop.top/hbgd.php?id=cctv8hd_3000
-#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="央视",CCTV-9
-https://live.metshop.top/hbgd.php?id=cctv9hd_3000
-#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="央视",CCTV-9
-https://live.goodiptv.club/api/bestv.php?id=wxtyhd8m/8000000
-#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="央视",CCTV-10
-https://live.metshop.top/hbgd.php?id=cctv10hd_3000
-#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="央视",CCTV-11
-https://live.metshop.top/hbgd.php?id=cctv11_1000
-#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="央视",CCTV-12
-https://live.metshop.top/hbgd.php?id=cctv12hd_3000
-#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="央视",CCTV-13
-https://live.metshop.top/hbgd.php?id=cctv13_1000
-#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="央视",CCTV-14
-https://live.metshop.top/hbgd.php?id=cctv17hd_3000
-#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="央视",CCTV-15
-https://live.metshop.top/hbgd.php?id=cctv14_1000
-#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV-16
-https://live.metshop.top/hbgd.php?id=cctv16hd_3000
-#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV-17
-https://live.metshop.top/hbgd.php?id=cctv14hd_3000
-#EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="央视",CGTN
-https://live.metshop.top/hbgd.php?id=cctvnews_1000
-#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="卫视",北京卫视
-https://live.metshop.top/hbgd.php?id=bjwshd_3000
-#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="卫视",东方卫视
-https://live.metshop.top/hbgd.php?id=dfwshd_3000
-#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="卫视",浙江卫视
-https://live.metshop.top/hbgd.php?id=zjwshd_3000
-#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视
-https://live.metshop.top/hbgd.php?id=jswshd_3000
-#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="卫视",湖南卫视
-https://live.metshop.top/hbgd.php?id=hnwshd_3000
-#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="卫视",深圳卫视
-https://live.metshop.top/hbgd.php?id=szwshd_3000
-#EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://epg.112114.xyz/logo/天津卫视.png" group-title="卫视",天津卫视
-https://live.metshop.top/hbgd.php?id=tjwshd_3000
-#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="卫视",广东卫视
-https://live.metshop.top/hbgd.php?id=gdwshd_3000
-#EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.xyz/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视
-https://live.metshop.top/hbgd.php?id=hljwshd_3000
-#EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.112114.xyz/logo/安徽卫视.png" group-title="卫视",安徽卫视
-https://live.metshop.top/hbgd.php?id=ahwshd_3000
-#EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
-https://live.metshop.top/hbgd.php?id=lnwshd_3000
-#EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png" group-title="卫视",四川卫视
-https://live.metshop.top/hbgd.php?id=scwshd_3000
-#EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg.112114.xyz/logo/重庆卫视.png" group-title="卫视",重庆卫视
-https://live.metshop.top/hbgd.php?id=cqwshd_3000
-#EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://epg.112114.xyz/logo/贵州卫视.png" group-title="卫视",贵州卫视
-https://live.metshop.top/hbgd.php?id=gzwshd_3000
-#EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://epg.112114.xyz/logo/江西卫视.png" group-title="卫视",江西卫视
-https://live.metshop.top/hbgd.php?id=jxwshd_3000
-#EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.112114.xyz/logo/东南卫视.png" group-title="卫视",东南卫视
-https://live.metshop.top/hbgd.php?id=dnwshd_3000
-#EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.112114.xyz/logo/湖北卫视.png" group-title="卫视",湖北卫视
-https://live.metshop.top/hbgd.php?id=hbwshd_3000
-#EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.112114.xyz/logo/河南卫视.png" group-title="卫视",河南卫视
-https://live.metshop.top/hbgd.php?id=henwshd_3000
-#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png" group-title="卫视",山东卫视
-https://live.metshop.top/hbgd.php?id=sdwdhd_3000
-#EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="卫视",海南卫视
-https://live.metshop.top/hbgd.php?id=hainwshd_3000
-#EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.112114.xyz/logo/广西卫视.png" group-title="卫视",广西卫视
-https://live.metshop.top/hbgd.php?id=gxwshd_3000
-#EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://epg.112114.xyz/logo/吉林卫视.png" group-title="卫视",吉林卫视
-https://live.metshop.top/hbgd.php?id=jlwshd_3000
-#EXTINF:-1,tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://epg.112114.xyz/logo/陕西卫视.png" group-title="卫视",陕西卫视
-https://live.metshop.top/hbgd.php?id=shxws_1000
-#EXTINF:-1,tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://epg.112114.xyz/logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视
-https://live.metshop.top/hbgd.php?id=nmws_1000
-#EXTINF:-1,tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://epg.112114.xyz/logo/西藏卫视.png" group-title="卫视",西藏卫视
-https://live.metshop.top/hbgd.php?id=xzws_1000
-#EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://epg.112114.xyz/logo/河北卫视.png" group-title="卫视",河北卫视
-https://live.metshop.top/hbgd.php?id=hebws_1000
-#EXTINF:-1,tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://epg.112114.xyz/logo/青海卫视.png" group-title="卫视",青海卫视
-https://live.metshop.top/hbgd.php?id=qhws_1000
-#EXTINF:-1,tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://epg.112114.xyz/logo/宁夏卫视.png" group-title="卫视",宁夏卫视
-https://live.metshop.top/hbgd.php?id=nxws_1000
-#EXTINF:-1,tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://epg.112114.xyz/logo/云南卫视.png" group-title="卫视",云南卫视
-https://live.metshop.top/hbgd.php?id=ynws_1000
-#EXTINF:-1,tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://epg.112114.xyz/logo/山西卫视.png" group-title="卫视",山西卫视
-https://live.metshop.top/hbgd.php?id=sxws_1000
-#EXTINF:-1,tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://epg.112114.xyz/logo/甘肃卫视.png" group-title="卫视",甘肃卫视
-https://live.metshop.top/hbgd.php?id=gsws_1000
-#EXTINF:-1,tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://epg.112114.xyz/logo/新疆卫视.png" group-title="卫视",新疆卫视
-https://live.metshop.top/hbgd.php?id=xjws_1000
-#EXTINF:-1,tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://epg.112114.xyz/logo/兵团卫视.png" group-title="卫视",兵团卫视
-
+#EXTINF:-1 group-title="ccc" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Live Cams
+http://live.adultiptv.net/livecams.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",MILF
+http://live.adultiptv.net/milf.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Big Dick
+http://live.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Big Tits
+http://live.adultiptv.net/bigtits.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Fetish
+http://live.adultiptv.net/fetish.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Pornstar
+http://live.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Big Ass
+http://live.adultiptv.net/bigass.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Interracial
+http://live.adultiptv.net/interracial.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Latina
+http://live.adultiptv.net/latina.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",POV
+http://live.adultiptv.net/pov.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Blowjob
+http://live.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Teen
+http://live.adultiptv.net/teen.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Hardcore
+http://live.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Cuckold
+http://live.adultiptv.net/cuckold.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Threesome
+http://live.adultiptv.net/threesome.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Russian
+http://live.adultiptv.net/russian.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Lesbian
+http://live.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Rough
+http://live.adultiptv.net/rough.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Gangbang
+http://live.adultiptv.net/gangbang.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Anal
+http://live.adultiptv.net/anal.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Compilation
+http://live.adultiptv.net/compilation.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Brunette
+http://live.adultiptv.net/brunette.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Blonde
+http://live.adultiptv.net/blonde.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Gay
+http://live.adultiptv.net/gay.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Asian
+http://live.adultiptv.net/asian.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",安斋
+https://siwazywcdn2.com:5278/zhongwenzimu/67nNClKY/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",百永纱理奈
+https://siwazywcdn2.com:5278/zhongwenzimu/5PzEAi0h/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",悲剧女主播
+https://videomy.yongaomy.com:8091/20191223/TOz9KzyG/1500kb/hls/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",春埼芽衣1
+https://fc.maa1809.com/m/omsopjnoon/omsopjnoon.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",春埼芽衣2
+https://fc.maa1809.com/d/onqiitnimq/onqiitnimq.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",春埼芽衣3
+https://fc.maa1809.com/m/iiojdlpnjp/iiojdlpnjp.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",大觉醒伊贺
+https://videomy.yongaomy.com:8091/20200126/SSNI-681/1500kb/hls/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",耳边细语
+https://siwazywcdn2.com:5278/zhongwenzimu/07fs3XqF/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",风俗女郎都咲乃
+https://videomy.yongaomy.com:8091/20191223/jYalymoY/1500kb/hls/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",汗水少女
+https://videomy.yongaomy.com:8091/20191219/WJQJUXjc/1500kb/hls/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",河原枫
+https://fc.maa1809.com/f/qcreaitlwz/qcreaitlwz.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",嘿嘿1768神田
+https://fc.maa1808.com/g/mllotqnpol/mllotqnpol.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",嘿嘿立花琉莉
+https://fc.maa1808.com/c/rkxhwovsgf/rkxhwovsgf.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",花音1
+https://fc.maa1809.com/e/pjnvmkrplq/pjnvmkrplq.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",姫川
+https://videomy.yongaomy.com:8091/20200102/IeVDOH6i/1500kb/hls/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",姬野栞
+https://fc.maa1809.com/g/rnhlghoqyo/rnhlghoqyo.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",吉岗
+https://videomy.yongaomy.com:8091/20191223/4ZcJ3aPo/1500kb/hls/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",加勒比001THE4名
+https://fc.maa1808.com/m/ajtnayynwz/ajtnayynwz.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",加勒比206西川
+https://fc.maa1808.com/d/oduhcvyunk/oduhcvyunk.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",加勒比350丘笑
+https://fc.maa1808.com/f/ocyxhukqvo/ocyxhukqvo.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",加勒比612希笑
+https://fc.maa1808.com/n/kqnjvnpjkm/kqnjvnpjkm.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",教育
+https://videomy.yongaomy.com:8091/20191226/OuJg40gL/1500kb/hls/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",姐姐的诱惑
+https://videomy.yongaomy.com:8091/20191226/ezCT3OZC/1500kb/hls/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",九重环奈1
+https://video1.rhsj520.com:8091/nyrm3/nvyou/0510/MIDE-493/1500kb/hls/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",九重环奈2
+https://video1.rhsj520.com:8091/nyrm3/nvyou/0510/MIDE-391/1500kb/hls/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",九重环奈3
+https://video1.rhsj520.com:8091/nyrm3/nvyou/0510/mide-422/1500kb/hls/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",九重环奈4
+https://video1.rhsj520.com:8091/nyrm3/nvyou/0510/MIDE-503/1500kb/hls/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",九重环奈5
+https://video1.rhsj520.com:8091/nyrm3/nvyou/0510/mide-525/1500kb/hls/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",九重环奈6
+https://video1.rhsj520.com:8091/nyrm3/nvyou/0510/MIDE-513/1500kb/hls/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",九重环奈7
+https://video1.rhsj520.com:8091/nyrm3/nvyou/0510/MIDE-535/1500kb/hls/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",笠木一香
+https://fc.maa1809.com/f/pngqwnljfg/pngqwnljfg.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",疗愈大叔
+https://videomy.yongaomy.com:8091/20191227/jPKXM7bL/1500kb/hls/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",妹妹
+https://videomy.yongaomy.com:8091/20200126/SW-587/1500kb/hls/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",内衣模特-新名
+https://videomy.yongaomy.com:8091/20191223/1HZ8kCxt/1500kb/hls/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",帕科马马-希笑
+https://fc.maa1808.com/m/rwrhezjunn/rwrhezjunn.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",情人节希岛
+https://videomy.yongaomy.com/xiezhen/LD-011/1500kb/hls/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",晴佳
+https://fc.maa1809.com/b/inmkopifvj/inmkopifvj.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",去学校
+https://videomy.yongaomy.com:8091/20200126/IPZ-949/1500kb/hls/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",全神贯注
+https://videomy.yongaomy.com:8091/20200126/IPX-428/1500kb/hls/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",三原穗花加藤绫野
+https://fc.maa1809.com/h/qjotnrtkkh/qjotnrtkkh.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",侍奉女仆
+https://videomy.yongaomy.com:8091/20200126/MIDE-066/1500kb/hls/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",松永纱奈1
+https://fc.maa1809.com/m/roqelpimmo/roqelpimmo.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",松永纱奈2
+https://fc.maa1809.com/e/ohtlknkomr/ohtlknkomr.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",松永纱奈3
+https://fc.maa1809.com/h/soknsufnkn/soknsufnkn.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",松永纱奈4
+https://fc.maa1809.com/f/knmpkoqmjg/knmpkoqmjg.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",松永纱奈5
+https://fc.maa1809.com/d/kvrynihixm/kvrynihixm.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",松永纱奈6
+https://fc.maa1809.com/c/fkkrigoeyk/fkkrigoeyk.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",体液浓密-新名
+https://videomy.yongaomy.com:8091/20200104/wtygLh5i/1500kb/hls/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",天海翼
+https://videomy.yongaomy.com:8091/20200111/IPZ-615/1500kb/hls/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",天使萌1
+https://video1.rhsj520.com:8091/nyrm3/snis/6/SNIS-210/1500kb/hls/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",天使萌2
+https://video1.rhsj520.com:8091/nyrm3/snis/6/SNIS-230/1500kb/hls/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",天使萌3
+https://video1.rhsj520.com:8091/nyrm3/snis/6/SNIS-249/1500kb/hls/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",天使萌4
+https://video1.rhsj520.com:8091/nyrm3/snis/6/SNIS-270/1500kb/hls/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",天使萌5
+https://video1.rhsj520.com:8091/nyrm3/snis/6/SNIS-929/1500kb/hls/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",天使萌6
+https://video1.rhsj520.com:8091/nyrm3/snis/3/ssni-380/1500kb/hls/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",天使萌7
+https://video1.rhsj520.com:8091/nyrm3/snis/6/SNIS-331/1500kb/hls/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",天使萌8
+https://video1.rhsj520.com:8091/nyrm3/snis/1/ssni-358/1500kb/hls/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",天使萌9
+https://videomy.yongaomy.com:8091/20200110/SNIS-270/1500kb/hls/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",天使萌10
+https://videomy.yongaomy.com:8091/20200110/SNIS-463/1500kb/hls/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",天使萌11
+https://videomy.yongaomy.com:8091/20200110/SNIS-311/1500kb/hls/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",天使萌12
+https://videomy.yongaomy.com:8091/20200112/SNIS-440/1500kb/hls/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",西川1
+https://videomy.yongaomy.com:8091/20200112/MIDE-124/1500kb/hls/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",西宫
+https://siwazywcdn2.com:5278/zhongwenzimu/1BvNA3kM/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",相部屋
+https://videomy.yongaomy.com:8091/20200126/SSNI-674/1500kb/hls/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",香皂小姐姐
+https://videomy.yongaomy.com:8091/20191223/R6Tq7Ldb/1500kb/hls/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",筱原友香1
+https://fc.maa1809.com/e/ktpmorpkrk/ktpmorpkrk.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",筱原友香2
+https://fc.maa1809.com/d/jnqjlprmom/jnqjlprmom.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",咲咲原凛星奈爱
+https://fc.maa1809.com/d/ojpmkokpmm/ojpmkokpmm.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",绪方艾丽娜
+https://videomy.yongaomy.com:8091/20200126/CHN-167/1500kb/hls/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",雪音
+https://siwazywcdn2.com:5278/zhongwenzimu/23fVU6wT/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",叶月梨乃
+https://siwazywcdn2.com:5278/ribenyouma/6F2acdoY/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",伊藤优希
+https://fc.maa1809.com/d/hmjfiplneo/hmjfiplneo.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",音羽
+https://fc.maa1809.com/c/nokhxqnqpj/nokhxqnqpj.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",银河迹美
+https://videomy.yongaomy.com:8091/20200126/MDTM-357/1500kb/hls/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",永濑唯
+https://fc.maa1809.com/n/shnlrwlnlo/shnlrwlnlo.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",诱惑的姐姐1
+https://videomy.yongaomy.com:8091/20200112/MIDE-118/1500kb/hls/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",诱惑的姐姐2
+https://videomy.yongaomy.com:8091/20200111/MIDE-051/1500kb/hls/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",欲求反对1
+https://videomy.yongaomy.com:8091/20200126/MEYD-564/1500kb/hls/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",欲求反对2
+https://videomy.yongaomy.com:8091/20200126/MEYD-248/1500kb/hls/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",欲求反对3
+https://videomy.yongaomy.com:8091/20200103/ocnUX7Tt/1500kb/hls/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",元气姐姐
+https://videomy.yongaomy.com:8091/20200126/IPX-434/1500kb/hls/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",职业OL
+https://videomy.yongaomy.com:8091/20191222/WGaysfrW/1500kb/hls/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",制服美少女2
+https://videomy.yongaomy.com:8091/20200104/ssClhQbc/1500kb/hls/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",奏美沙
+https://fc.maa1809.com/e/chifuosxst/chifuosxst.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",奏音花音
+https://videomy.yongaomy.com/20210907/Ekcv3tYC/1500kb/hls/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",AMBI-112奏音花音
+https://videomy.yongaomy.com/20211023/MtGqJmJr/1500kb/hls/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",APKH-123奏音花音
+https://videomy.yongaomy.com/20210825/d1JxSvZO/1500kb/hls/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",BLK-458奏音花音
+https://videomy.yongaomy.com/20211028/aA6JBM10/1500kb/hls/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",carib002姬川
+https://fc.maa1808.com/c/fpsvmyqlej/fpsvmyqlej.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",carib004西川
+https://fc.maa1808.com/f/xuyanbincr/xuyanbincr.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",carib146西川
+https://fc.maa1808.com/c/nofftnyelj/nofftnyelj.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",carib182西川
+https://fc.maa1808.com/f/tveemkomvr/tveemkomvr.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",carib239西川
+https://fc.maa1808.com/n/uvbinnjany/uvbinnjany.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",carib288西川
+https://fc.maa1808.com/m/jtzgqcaxvw/jtzgqcaxvw.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",carib311西川
+https://fc.maa1808.com/h/kmqtdxwjmz/kmqtdxwjmz.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",carib337西川
+https://fc.maa1808.com/d/uuvombzvvi/uuvombzvvi.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",carib339姬川
+https://fc.maa1808.com/d/pqkdrfftpw/pqkdrfftpw.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",carib363西川
+https://fc.maa1808.com/b/ravxbmkthk/ravxbmkthk.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",carib375姬川
+https://fc.maa1808.com/n/qwpcalfmpo/qwpcalfmpo.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",carib375姬川
+https://fc.maa1808.com/f/lpeelnsfwx/lpeelnsfwx.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",carib420丘笑
+https://fc.maa1808.com/d/qzwkkcltyl/qzwkkcltyl.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",carib431北川
+https://fc.maa1808.com/d/jestvkpubl/jestvkpubl.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",carib433姬川
+https://fc.maa1808.com/g/vphfeljbji/vphfeljbji.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",carib449神田
+https://fc.maa1808.com/b/txaohlcqnn/txaohlcqnn.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",carib457北川
+https://fc.maa1808.com/h/unxtgmrxzw/unxtgmrxzw.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",carib474立花琉莉
+https://fc.maa1808.com/h/oqmoimljpr/oqmoimljpr.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",carib477立花琉莉
+https://fc.maa1808.com/c/avmrmbmugl/avmrmbmugl.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",carib478北川
+https://fc.maa1808.com/d/lhnviuaoqi/lhnviuaoqi.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",carib495神田
+https://fc.maa1808.com/g/xvbqwmnpqm/xvbqwmnpqm.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",carib531立花琉莉
+https://fc.maa1808.com/n/cekgvsrnrr/cekgvsrnrr.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",carib533丘笑
+https://fc.maa1808.com/f/dkpfeyqgrj/dkpfeyqgrj.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",carib541神田
+https://fc.maa1808.com/c/rhmiiydppe/rhmiiydppe.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",carib563爱莉
+https://fc.maa1808.com/d/qscypinana/qscypinana.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",carib563七濑
+https://fc.maa1808.com/f/pwkupqugdm/pwkupqugdm.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",carib589立花琉莉
+https://fc.maa1808.com/n/okjmiigqsr/okjmiigqsr.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",carib639神田
+https://fc.maa1808.com/n/rpsqccbbug/rpsqccbbug.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",carib665姬川
+https://fc.maa1808.com/c/mrpmoinlmj/mrpmoinlmj.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",carib665姬川
+https://fc.maa1808.com/g/oplnohpsmh/oplnohpsmh.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",carib674杏奈
+https://fc.maa1808.com/g/jtlmkjipqv/jtlmkjipqv.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",carib675神田
+https://fc.maa1808.com/c/qmlpmophlh/qmlpmophlh.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",carib710神田
+https://fc.maa1808.com/h/mesmnroogk/mesmnroogk.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",carib717杏奈
+https://fc.maa1808.com/f/ssoskhqgml/ssoskhqgml.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",carib744立花琉莉
+https://fc.maa1808.com/c/kmiorrpitk/kmiorrpitk.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",carib758美笑爱
+https://fc.maa1808.com/c/rnpmkvqfrr/rnpmkvqfrr.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",cawd-092皆川优奈
+https://siwazywcdn2.com:5278/zhongwenzimu/5JDoELrc/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",cjod-238奏音花音
+https://videomy.yongaomy.com/20211007/R4AHRbjR/1500kb/hls/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",DASD-675深田咏美
+https://videomy.yongaomy.com/20211028/ebxtDsUR/1500kb/hls/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",ebod-829北野未奈
+https://siwazywcdn2.com:5278/zhongwenzimu/6MnoNVIC/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",fsdss-039美乃
+https://siwazywcdn2.com:5278/zhongwenzimu/30HRcubp/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",heyzo0705杏奈
+https://fc.maa1808.com/e/hacddcsdtd/hacddcsdtd.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",heyzo1199希笑
+https://fc.maa1808.com/d/bysmgbtdit/bysmgbtdit.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",heyzo1243水谷
+https://fc.maa1808.com/c/iqwejgyxjo/iqwejgyxjo.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",heyzo1262西川
+https://fc.maa1808.com/d/fhctzryess/fhctzryess.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",heyzo1275水谷
+https://fc.maa1808.com/m/yifrmmuwzg/yifrmmuwzg.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",heyzo1395姬川
+https://fc.maa1808.com/n/navpsngdew/navpsngdew.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",heyzo1478丘笑
+https://fc.maa1808.com/c/tbpdlnyuix/tbpdlnyuix.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",heyzo1544姬川
+https://fc.maa1808.com/h/xfjsphiogs/xfjsphiogs.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",heyzo1570神田
+https://fc.maa1808.com/b/xisxqtvjhu/xisxqtvjhu.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",heyzo1590神田
+https://fc.maa1808.com/m/qyqycucecx/qyqycucecx.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",heyzo1601北川
+https://fc.maa1808.com/d/mdsjynuabc/mdsjynuabc.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",heyzo1638姬川
+https://fc.maa1808.com/n/hvxlbaoohy/hvxlbaoohy.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",heyzo1691神田
+https://fc.maa1808.com/d/gxoiwurbtv/gxoiwurbtv.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",heyzo1722杏奈
+https://fc.maa1808.com/f/xbztwfweja/xbztwfweja.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",heyzo1786杏奈
+https://fc.maa1808.com/b/ehazmnswdt/ehazmnswdt.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",hnd-842奏音花音
+https://videomy.yongaomy.com/20211009/MZnz3FCC/1500kb/hls/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",ipx-511
+https://siwazywcdn2.com:5278/ribenyouma/NkRh5zW8/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",JUFE-104
+https://siwazywcdn2.com:5278/zhongwenzimu/4TrvxJeg/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",JUFE-104
+https://siwazywcdn2.com:5278//zhongwenzimu/4TrvxJeg/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",JUY-385大岛优香
+https://video2.51daao.com/btt1/2021/10/20211017/V7WwMk16/2000kb/hls/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",KNAM-005奏音花音
+https://videomy.yongaomy.com/20211106/5KZCzleX/1500kb/hls/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",MEYD-647川上奈奈美
+https://siwazywcdn2.com:5278/zhongwenzimu/3YPtObjx/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",MIAA-247
+https://siwazywcdn2.com:5278/zhongwenzimu/TZb8hicm/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",MIAA-248奏音花音
+https://videomy.yongaomy.com/20210721/6NCwf1nt/1500kb/hls/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",MIAA-320
+https://siwazywcdn2.com:5278/zhongwenzimu/4idREMlz/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",MIFD-117
+https://siwazywcdn2.com:5278/zhongwenzimu/2imBA5or/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",mifd070永瀬
+https://fc.maa1808.com/n/shnlrwlnlo/shnlrwlnlo.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",pondo273水谷
+https://fc.maa1808.com/g/pzvktykubw/pzvktykubw.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",pondo311水谷
+https://fc.maa1808.com/c/vkitdntxfe/vkitdntxfe.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",pondo350西川
+https://fc.maa1808.com/h/fmrcohtytf/fmrcohtytf.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",pondo366水谷
+https://fc.maa1808.com/c/wgucctcnwb/wgucctcnwb.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",pondo419西川
+https://fc.maa1808.com/b/ptytphcyus/ptytphcyus.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",pondo450西川
+https://fc.maa1808.com/f/omlrqipols/omlrqipols.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",pondo488姬川
+https://fc.maa1808.com/g/ibktjjcjvi/ibktjjcjvi.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",pondo518姬川
+https://fc.maa1808.com/h/uglvzhiqwb/uglvzhiqwb.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",pondo559北川
+https://fc.maa1808.com/h/ibogkqnaah/ibogkqnaah.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",pondo597西川
+https://fc.maa1808.com/n/iqphtushdl/iqphtushdl.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",pondo613七濑
+https://fc.maa1808.com/e/vwiedbxdkp/vwiedbxdkp.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",pondo618水谷
+https://fc.maa1808.com/c/dyostrmwue/dyostrmwue.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",pondo764杏奈
+https://fc.maa1808.com/g/rgihjwnolt/rgihjwnolt.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",pondo793杏奈
+https://fc.maa1808.com/f/kpprkumlkh/kpprkumlkh.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",SCOP-697
+https://siwazywcdn2.com:5278/zhongwenzimu/59LHYbi4/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",SDMM-064奏音花音
+https://videomy.yongaomy.com/20211112/rw3LhAQi/1500kb/hls/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",siro1774奏音花音
+https://videomy.yongaomy.com/20210716/1uTF5FjS/1500kb/hls/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",SPRD-1481夏川
+https://siwazywcdn2.com:5278/zhongwenzimu/1Wc2gtfN/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",ssis-096乙白沙也
+https://siwazywcdn2.com:5278/zhongwenzimu/0GbVxCsv/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",ssis-118梦乃
+https://siwazywcdn2.com:5278/zhongwenzimu/5yvSxVeg/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",SSNI-658A
+https://siwazywcdn2.com:5278/zhongkouwei/nwba4LUx/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",SSNI-658B
+https://siwazywcdn2.com:5278/zhongkouwei/WBdOE3qp/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",ssni-778儿玉玲奈
+https://siwazywcdn2.com:5278/zhongwenzimu/6Lwmk5xH/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",UMD-737奏音花音
+https://video2.51daao.com/btt1/2021/10/20211019/wO9PIxFb/2000kb/hls/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",WAAA-087工藤良罗
+https://siwazywcdn2.com:5278/zhongwenzimu/0SuepbFL/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",WANZ-957奏音花音
+https://videomy.yongaomy.com/20211017/jSi0DQcD/1500kb/hls/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i.imgur.com/cqKFF8A.png",AdultIPTV.net Anal (720p)
+https://cdn.adultiptv.net/anal.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i.imgur.com/cqKFF8A.png",AdultIPTV.net Asian (720p)
+https://cdn.adultiptv.net/asian.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i.imgur.com/cqKFF8A.png",AdultIPTV.net Big Ass (720p)
+https://cdn.adultiptv.net/bigass.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i.imgur.com/cqKFF8A.png",AdultIPTV.net Big Dick (720p)
+https://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i.imgur.com/cqKFF8A.png",AdultIPTV.net Big Tits (720p)
+https://cdn.adultiptv.net/bigtits.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i.imgur.com/cqKFF8A.png",AdultIPTV.net Blonde (720p)
+https://cdn.adultiptv.net/blonde.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i.imgur.com/cqKFF8A.png",AdultIPTV.net Blowjob (720p)
+https://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i.imgur.com/cqKFF8A.png",AdultIPTV.net Brunette (720p)
+https://cdn.adultiptv.net/brunette.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i.imgur.com/cqKFF8A.png",AdultIPTV.net Compilation (720p)
+https://cdn.adultiptv.net/compilation.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i.imgur.com/cqKFF8A.png",AdultIPTV.net Cuckold (720p)
+https://cdn.adultiptv.net/cuckold.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i.imgur.com/cqKFF8A.png",AdultIPTV.net Fetish (720p)
+https://cdn.adultiptv.net/fetish.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i.imgur.com/cqKFF8A.png",AdultIPTV.net Gangbang (720p)
+https://cdn.adultiptv.net/gangbang.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i.imgur.com/cqKFF8A.png",AdultIPTV.net Gay (720p)
+https://cdn.adultiptv.net/gay.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i.imgur.com/cqKFF8A.png",AdultIPTV.net Hardcore (720p)
+https://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i.imgur.com/cqKFF8A.png",AdultIPTV.net Interracial (720p)
+https://cdn.adultiptv.net/interracial.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i.imgur.com/cqKFF8A.png",AdultIPTV.net Latina (720p)
+https://cdn.adultiptv.net/latina.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i.imgur.com/cqKFF8A.png",AdultIPTV.net Lesbian (720p)
+https://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i.imgur.com/cqKFF8A.png",AdultIPTV.net Live Cams (720p)
+https://cdn.adultiptv.net/livecams.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i.imgur.com/cqKFF8A.png",AdultIPTV.net MILF (720p)
+https://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i.imgur.com/cqKFF8A.png",AdultIPTV.net Pornstar (720p)
+https://cdn.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i.imgur.com/cqKFF8A.png",AdultIPTV.net POV (720p)
+https://cdn.adultiptv.net/pov.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i.imgur.com/cqKFF8A.png",AdultIPTV.net Rough (720p)
+https://cdn.adultiptv.net/rough.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i.imgur.com/cqKFF8A.png",AdultIPTV.net Russian (720p)
+https://cdn.adultiptv.net/russian.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i.imgur.com/cqKFF8A.png",AdultIPTV.net Teen (720p)
+https://cdn.adultiptv.net/teen.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i.imgur.com/cqKFF8A.png",AdultIPTV.net Threesome (720p)
+https://cdn.adultiptv.net/threesome.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i.imgur.com/cqKFF8A.png",AdultIPTV.net Woman (720p)
+https://live.redtraffic.net/woman.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i.imgur.com/DNJP1gi.png",Babestation24 (720p)
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/9528_264_live.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i.imgur.com/MpQtdTb.png",Miami TV Mexico (1080p)
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i.imgur.com/sli5irt.png",MyCamTV Anal (720p)
+https://live.mycamtv.com/anal.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i.imgur.com/sli5irt.png",MyCamTV Arab (720p)
+http://live.mycamtv.com/arab.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i.imgur.com/FBSodo6.png",MyCamTV Asian (720p)
+https://live.mycamtv.com/asian.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png",MyCamTV Big Ass (720p)
+https://live.mycamtv.com/defstream.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png",MyCamTV Big Tits (720p)
+https://live.mycamtv.com/bigtits.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png",MyCamTV Blonde (720p)
+https://live.mycamtv.com/blonde.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i.imgur.com/sli5irt.png",MyCamTV Blowjob (720p)
+http://live.mycamtv.com/blowjob.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png",MyCamTV Brunette (720p)
+https://live.mycamtv.com/brunette.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png",MyCamTV Latina (720p)
+https://live.mycamtv.com/latina.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i.imgur.com/sli5irt.png",MyCamTV Medium (720p)
+http://live.mycamtv.com/medium.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i.imgur.com/sli5irt.png",MyCamTV MILF (720p)
+http://live.mycamtv.com/milf.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png",MyCamTV Skinny (720p)
+https://live.mycamtv.com/arab.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png",MyCamTV Squirt (720p)
+https://live.mycamtv.com/squirt.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i.imgur.com/sli5irt.png",MyCamTV Teen (720p)
+http://live.mycamtv.com/teen.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png",MyCamTV White (720p)
+https://live.mycamtv.com/white.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i.imgur.com/sli5irt.png",MyCamTV Young (720p)
+http://live.mycamtv.com/young.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i.imgur.com/6aOmZs4.png",O-la-la! (576p)
+http://31.148.48.15/O-la-la/index.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i.imgur.com/B3DMUM9.png",Playboy TV Latin America (1080p)
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+#EXTINF:-1 group-title="ccc" tvg-logo="https://i.imgur.com/avtSqUu.png",Visit-X TV (720p)
+https://stream.visit-x.tv/vxtv/live/playlist.m3u8
+#EXTINF:-1 group-title="ccc",东热01
+https://video1.rhsj520.com/nyrm3/2011225/DR/n0011/index.m3u8
+#EXTINF:-1 group-title="ccc",东热02
+https://video1.rhsj520.com/nyrm3/2011225/DR/n0010/index.m3u8
+#EXTINF:-1 group-title="ccc",东热03
+https://video1.rhsj520.com/nyrm3/2011225/DR/n0008/index.m3u8
+#EXTINF:-1 group-title="ccc",东热04
+https://video1.rhsj520.com/nyrm3/2011225/DR/n0001/index.m3u8
+#EXTINF:-1 group-title="ccc",一本00
+https://vip4.ddyunbo.com/20210208/6LaKp6lZ/index.m3u8
+#EXTINF:-1 group-title="ccc",二本01
+https://vip4.ddyunbo.com/20210209/dEzJjeSU/index.m3u8
+#EXTINF:-1 group-title="ccc",三本02
+https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8
+#EXTINF:-1 group-title="ccc",一本03
+http://live.redtraffic.xyz:80/bigass.m3u8
+#EXTINF:-1 group-title="ccc",二本04
+http://live.redtraffic.xyz:80/blowjob.m3u8
+#EXTINF:-1 group-title="ccc",欧美01
+http://live.redtraffic.xyz/threesome.m3u8?fluxuslust.m3u8
+#EXTINF:-1 group-title="ccc",欧美02
+http://live.redtraffic.xyz/bigass.m3u8?fluxuslust.m3u8
+#EXTINF:-1 group-title="ccc",松视1
+http://live.redtraffic.xyz:80/fetish.m3u8
+#EXTINF:-1 group-title="ccc",松视2
+http://live.redtraffic.xyz:80/bigdick.m3u8
+#EXTINF:-1 group-title="ccc",玩美台
+http://live.redtraffic.xyz:80/pov.m3u8
+#EXTINF:-1 group-title="ccc",限制级
+http://cdn.adultiptv.net/blonde.m3u8?streamType=livеhls
