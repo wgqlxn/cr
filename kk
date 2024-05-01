@@ -1,4 +1,86 @@
 #EXTM3U
+#EXTINF:-1 group-title="[无分类]",Unknown_18
+http://live.redtraffic.xyz/lesbian.m3u8
+#EXTINF:-1 group-title="[无分类]",Unknown_19
+http://live.redtraffic.xyz/russian.m3u8
+#EXTINF:-1 group-title="[无分类]",Unknown_20
+http://live.redtraffic.xyz/latina.m3u8
+#EXTINF:-1 group-title="[无分类]",Unknown_21
+http://live.redtraffic.xyz/bigass.m3u8
+#EXTINF:-1 group-title="[无分类]",Unknown_22
+http://live.redtraffic.xyz/pornstar.m3u8
+#EXTINF:-1 group-title="[无分类]",Unknown_23
+http://live.redtraffic.xyz/fetish.m3u8
+#EXTINF:-1 group-title="[无分类]",Unknown_24
+http://live.redtraffic.xyz/interracial.m3u8
+#EXTINF:-1 group-title="[无分类]",Unknown_25
+http://live.redtraffic.xyz/bigtits.m3u8
+#EXTINF:-1 group-title="[无分类]",Unknown_26
+http://live.redtraffic.xyz/bigdick.m3u8
+#EXTINF:-1 group-title="[无分类]",Unknown_27
+http://live.redtraffic.xyz/milf.m3u8
+#EXTINF:-1 group-title="[无分类]",Unknown_28
+http://live.redtraffic.xyz/threesome.m3u8
+#EXTINF:-1 group-title="[无分类]",Unknown_29
+http://live.redtraffic.xyz/cuckold.m3u8
+#EXTINF:-1 group-title="[无分类]",Unknown_30
+http://live.redtraffic.xyz/hardcore.m3u8
+#EXTINF:-1 group-title="[无分类]",Unknown_31
+http://live.redtraffic.xyz/teen.m3u8
+#EXTINF:-1 group-title="[无分类]",Unknown_32
+http://live.redtraffic.xyz/pov.m3u8
+#EXTINF:-1 group-title="[无分类]",Unknown_33
+http://live.redtraffic.xyz/blowjob.m3u8
+#EXTINF:-1 group-title="成人频道" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Live Cams
+http://cdn.adultiptv.net/livecams.m3u8
+#EXTINF:-1 group-title="成人频道" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",MILF
+http://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1 group-title="成人频道" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Big Dick
+http://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 group-title="成人频道" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Big Tits
+http://cdn.adultiptv.net/bigtits.m3u8
+#EXTINF:-1 group-title="成人频道" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Fetish
+http://cdn.adultiptv.net/fetish.m3u8
+#EXTINF:-1 group-title="成人频道" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Pornstar
+http://cdn.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 group-title="成人频道" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Big Ass
+http://cdn.adultiptv.net/bigass.m3u8
+#EXTINF:-1 group-title="成人频道" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Interracial
+http://cdn.adultiptv.net/interracial.m3u8
+#EXTINF:-1 group-title="成人频道" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Latina
+http://cdn.adultiptv.net/latina.m3u8
+#EXTINF:-1 group-title="成人频道" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",POV
+http://cdn.adultiptv.net/pov.m3u8
+#EXTINF:-1 group-title="成人频道" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Blowjob
+http://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 group-title="成人频道" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Teen
+http://cdn.adultiptv.net/teen.m3u8
+#EXTINF:-1 group-title="成人频道" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Hardcore
+http://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 group-title="成人频道" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Cuckold
+http://cdn.adultiptv.net/cuckold.m3u8
+#EXTINF:-1 group-title="成人频道" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Threesome
+http://cdn.adultiptv.net/threesome.m3u8
+#EXTINF:-1 group-title="成人频道" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Russian
+http://cdn.adultiptv.net/russian.m3u8
+#EXTINF:-1 group-title="成人频道" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Lesbian
+http://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 group-title="成人频道" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Rough
+http://cdn.adultiptv.net/rough.m3u8
+#EXTINF:-1 group-title="成人频道" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Gangbang
+http://cdn.adultiptv.net/gangbang.m3u8
+#EXTINF:-1 group-title="成人频道" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Anal
+http://cdn.adultiptv.net/anal.m3u8
+#EXTINF:-1 group-title="成人频道" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Compilation
+http://cdn.adultiptv.net/compilation.m3u8
+#EXTINF:-1 group-title="成人频道" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Brunette
+http://cdn.adultiptv.net/brunette.m3u8
+#EXTINF:-1 group-title="成人频道" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Blonde
+http://cdn.adultiptv.net/blonde.m3u8
+#EXTINF:-1 group-title="成人频道" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Gay
+http://cdn.adultiptv.net/gay.m3u8
+#EXTINF:-1 group-title="成人频道" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Asian
+http://cdn.adultiptv.net/asian.m3u8
 #EXTINF:-1 group-title="ccc" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Live Cams
 http://live.adultiptv.net/livecams.m3u8
 #EXTINF:-1 group-title="ccc" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",MILF
@@ -15,8 +97,6 @@ http://live.adultiptv.net/pornstar.m3u8
 http://live.adultiptv.net/bigass.m3u8
 #EXTINF:-1 group-title="ccc" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Interracial
 http://live.adultiptv.net/interracial.m3u8
-#EXTINF:-1 group-title="ccc" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Latina
-http://live.adultiptv.net/latina.m3u8
 #EXTINF:-1 group-title="ccc" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",POV
 http://live.adultiptv.net/pov.m3u8
 #EXTINF:-1 group-title="ccc" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Blowjob
@@ -345,8 +425,6 @@ https://siwazywcdn2.com:5278/ribenyouma/NkRh5zW8/index.m3u8
 https://siwazywcdn2.com:5278/zhongwenzimu/4TrvxJeg/index.m3u8
 #EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",JUFE-104
 https://siwazywcdn2.com:5278//zhongwenzimu/4TrvxJeg/index.m3u8
-#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",JUY-385大岛优香
-https://video2.51daao.com/btt1/2021/10/20211017/V7WwMk16/2000kb/hls/index.m3u8
 #EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",KNAM-005奏音花音
 https://videomy.yongaomy.com/20211106/5KZCzleX/1500kb/hls/index.m3u8
 #EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",MEYD-647川上奈奈美
@@ -407,98 +485,22 @@ https://siwazywcdn2.com:5278/zhongkouwei/nwba4LUx/index.m3u8
 https://siwazywcdn2.com:5278/zhongkouwei/WBdOE3qp/index.m3u8
 #EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",ssni-778儿玉玲奈
 https://siwazywcdn2.com:5278/zhongwenzimu/6Lwmk5xH/index.m3u8
-#EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",UMD-737奏音花音
-https://video2.51daao.com/btt1/2021/10/20211019/wO9PIxFb/2000kb/hls/index.m3u8
 #EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",WAAA-087工藤良罗
 https://siwazywcdn2.com:5278/zhongwenzimu/0SuepbFL/index.m3u8
 #EXTINF:-1 group-title="ccc" tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp",WANZ-957奏音花音
 https://videomy.yongaomy.com/20211017/jSi0DQcD/1500kb/hls/index.m3u8
-#EXTINF:-1 group-title="ccc" tvg-logo="https://i.imgur.com/cqKFF8A.png",AdultIPTV.net Anal (720p)
-https://cdn.adultiptv.net/anal.m3u8
-#EXTINF:-1 group-title="ccc" tvg-logo="https://i.imgur.com/cqKFF8A.png",AdultIPTV.net Asian (720p)
-https://cdn.adultiptv.net/asian.m3u8
-#EXTINF:-1 group-title="ccc" tvg-logo="https://i.imgur.com/cqKFF8A.png",AdultIPTV.net Big Ass (720p)
-https://cdn.adultiptv.net/bigass.m3u8
-#EXTINF:-1 group-title="ccc" tvg-logo="https://i.imgur.com/cqKFF8A.png",AdultIPTV.net Big Dick (720p)
-https://cdn.adultiptv.net/bigdick.m3u8
-#EXTINF:-1 group-title="ccc" tvg-logo="https://i.imgur.com/cqKFF8A.png",AdultIPTV.net Big Tits (720p)
-https://cdn.adultiptv.net/bigtits.m3u8
-#EXTINF:-1 group-title="ccc" tvg-logo="https://i.imgur.com/cqKFF8A.png",AdultIPTV.net Blonde (720p)
-https://cdn.adultiptv.net/blonde.m3u8
-#EXTINF:-1 group-title="ccc" tvg-logo="https://i.imgur.com/cqKFF8A.png",AdultIPTV.net Blowjob (720p)
-https://cdn.adultiptv.net/blowjob.m3u8
-#EXTINF:-1 group-title="ccc" tvg-logo="https://i.imgur.com/cqKFF8A.png",AdultIPTV.net Brunette (720p)
-https://cdn.adultiptv.net/brunette.m3u8
-#EXTINF:-1 group-title="ccc" tvg-logo="https://i.imgur.com/cqKFF8A.png",AdultIPTV.net Compilation (720p)
-https://cdn.adultiptv.net/compilation.m3u8
-#EXTINF:-1 group-title="ccc" tvg-logo="https://i.imgur.com/cqKFF8A.png",AdultIPTV.net Cuckold (720p)
-https://cdn.adultiptv.net/cuckold.m3u8
-#EXTINF:-1 group-title="ccc" tvg-logo="https://i.imgur.com/cqKFF8A.png",AdultIPTV.net Fetish (720p)
-https://cdn.adultiptv.net/fetish.m3u8
-#EXTINF:-1 group-title="ccc" tvg-logo="https://i.imgur.com/cqKFF8A.png",AdultIPTV.net Gangbang (720p)
-https://cdn.adultiptv.net/gangbang.m3u8
-#EXTINF:-1 group-title="ccc" tvg-logo="https://i.imgur.com/cqKFF8A.png",AdultIPTV.net Gay (720p)
-https://cdn.adultiptv.net/gay.m3u8
-#EXTINF:-1 group-title="ccc" tvg-logo="https://i.imgur.com/cqKFF8A.png",AdultIPTV.net Hardcore (720p)
-https://cdn.adultiptv.net/hardcore.m3u8
-#EXTINF:-1 group-title="ccc" tvg-logo="https://i.imgur.com/cqKFF8A.png",AdultIPTV.net Interracial (720p)
-https://cdn.adultiptv.net/interracial.m3u8
-#EXTINF:-1 group-title="ccc" tvg-logo="https://i.imgur.com/cqKFF8A.png",AdultIPTV.net Latina (720p)
-https://cdn.adultiptv.net/latina.m3u8
-#EXTINF:-1 group-title="ccc" tvg-logo="https://i.imgur.com/cqKFF8A.png",AdultIPTV.net Lesbian (720p)
-https://cdn.adultiptv.net/lesbian.m3u8
-#EXTINF:-1 group-title="ccc" tvg-logo="https://i.imgur.com/cqKFF8A.png",AdultIPTV.net Live Cams (720p)
-https://cdn.adultiptv.net/livecams.m3u8
-#EXTINF:-1 group-title="ccc" tvg-logo="https://i.imgur.com/cqKFF8A.png",AdultIPTV.net MILF (720p)
-https://cdn.adultiptv.net/milf.m3u8
-#EXTINF:-1 group-title="ccc" tvg-logo="https://i.imgur.com/cqKFF8A.png",AdultIPTV.net Pornstar (720p)
-https://cdn.adultiptv.net/pornstar.m3u8
-#EXTINF:-1 group-title="ccc" tvg-logo="https://i.imgur.com/cqKFF8A.png",AdultIPTV.net POV (720p)
-https://cdn.adultiptv.net/pov.m3u8
-#EXTINF:-1 group-title="ccc" tvg-logo="https://i.imgur.com/cqKFF8A.png",AdultIPTV.net Rough (720p)
-https://cdn.adultiptv.net/rough.m3u8
-#EXTINF:-1 group-title="ccc" tvg-logo="https://i.imgur.com/cqKFF8A.png",AdultIPTV.net Russian (720p)
-https://cdn.adultiptv.net/russian.m3u8
-#EXTINF:-1 group-title="ccc" tvg-logo="https://i.imgur.com/cqKFF8A.png",AdultIPTV.net Teen (720p)
-https://cdn.adultiptv.net/teen.m3u8
-#EXTINF:-1 group-title="ccc" tvg-logo="https://i.imgur.com/cqKFF8A.png",AdultIPTV.net Threesome (720p)
-https://cdn.adultiptv.net/threesome.m3u8
-#EXTINF:-1 group-title="ccc" tvg-logo="https://i.imgur.com/cqKFF8A.png",AdultIPTV.net Woman (720p)
-https://live.redtraffic.net/woman.m3u8
-#EXTINF:-1 group-title="ccc" tvg-logo="https://i.imgur.com/DNJP1gi.png",Babestation24 (720p)
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/9528_264_live.m3u8
 #EXTINF:-1 group-title="ccc" tvg-logo="https://i.imgur.com/MpQtdTb.png",Miami TV Mexico (1080p)
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
-#EXTINF:-1 group-title="ccc" tvg-logo="https://i.imgur.com/sli5irt.png",MyCamTV Anal (720p)
-https://live.mycamtv.com/anal.m3u8
 #EXTINF:-1 group-title="ccc" tvg-logo="https://i.imgur.com/sli5irt.png",MyCamTV Arab (720p)
 http://live.mycamtv.com/arab.m3u8
-#EXTINF:-1 group-title="ccc" tvg-logo="https://i.imgur.com/FBSodo6.png",MyCamTV Asian (720p)
-https://live.mycamtv.com/asian.m3u8
-#EXTINF:-1 group-title="ccc" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png",MyCamTV Big Ass (720p)
-https://live.mycamtv.com/defstream.m3u8
-#EXTINF:-1 group-title="ccc" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png",MyCamTV Big Tits (720p)
-https://live.mycamtv.com/bigtits.m3u8
-#EXTINF:-1 group-title="ccc" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png",MyCamTV Blonde (720p)
-https://live.mycamtv.com/blonde.m3u8
 #EXTINF:-1 group-title="ccc" tvg-logo="https://i.imgur.com/sli5irt.png",MyCamTV Blowjob (720p)
 http://live.mycamtv.com/blowjob.m3u8
-#EXTINF:-1 group-title="ccc" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png",MyCamTV Brunette (720p)
-https://live.mycamtv.com/brunette.m3u8
-#EXTINF:-1 group-title="ccc" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png",MyCamTV Latina (720p)
-https://live.mycamtv.com/latina.m3u8
 #EXTINF:-1 group-title="ccc" tvg-logo="https://i.imgur.com/sli5irt.png",MyCamTV Medium (720p)
 http://live.mycamtv.com/medium.m3u8
 #EXTINF:-1 group-title="ccc" tvg-logo="https://i.imgur.com/sli5irt.png",MyCamTV MILF (720p)
 http://live.mycamtv.com/milf.m3u8
-#EXTINF:-1 group-title="ccc" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png",MyCamTV Skinny (720p)
-https://live.mycamtv.com/arab.m3u8
-#EXTINF:-1 group-title="ccc" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png",MyCamTV Squirt (720p)
-https://live.mycamtv.com/squirt.m3u8
 #EXTINF:-1 group-title="ccc" tvg-logo="https://i.imgur.com/sli5irt.png",MyCamTV Teen (720p)
 http://live.mycamtv.com/teen.m3u8
-#EXTINF:-1 group-title="ccc" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png",MyCamTV White (720p)
-https://live.mycamtv.com/white.m3u8
 #EXTINF:-1 group-title="ccc" tvg-logo="https://i.imgur.com/sli5irt.png",MyCamTV Young (720p)
 http://live.mycamtv.com/young.m3u8
 #EXTINF:-1 group-title="ccc" tvg-logo="https://i.imgur.com/6aOmZs4.png",O-la-la! (576p)
@@ -515,12 +517,6 @@ https://video1.rhsj520.com/nyrm3/2011225/DR/n0010/index.m3u8
 https://video1.rhsj520.com/nyrm3/2011225/DR/n0008/index.m3u8
 #EXTINF:-1 group-title="ccc",东热04
 https://video1.rhsj520.com/nyrm3/2011225/DR/n0001/index.m3u8
-#EXTINF:-1 group-title="ccc",一本00
-https://vip4.ddyunbo.com/20210208/6LaKp6lZ/index.m3u8
-#EXTINF:-1 group-title="ccc",二本01
-https://vip4.ddyunbo.com/20210209/dEzJjeSU/index.m3u8
-#EXTINF:-1 group-title="ccc",三本02
-https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8
 #EXTINF:-1 group-title="ccc",一本03
 http://live.redtraffic.xyz:80/bigass.m3u8
 #EXTINF:-1 group-title="ccc",二本04
